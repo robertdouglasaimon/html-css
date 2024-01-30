@@ -10,17 +10,17 @@
 
 #### Desafios
 - **Módulo 1** (Concluído)
-  - Desafio 1:<a href="robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d001 CONCLUIDO/index.html">[Desafios 1]</a>
-  - Desafio 2:<a href="">[Desafios 2]</a>
-  - Desafio 3:<a href="">[Desafios 3]</a>
-  - Desafio 4:<a href="">[Desafios 4]</a>
-  - Desafio 5:<a href="">[Desafios 5]</a>
-  - Desafio 6:<a href="">[Desafios 6]</a>
-  - Desafio 7:<a href="">[Desafios 7]</a>
-  - Desafio 8:<a href="">[Desafios 8]</a>
-  - Desafio 8:<a href="">[Desafios 9]</a>
+  - Desafio 1:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d001%20%20CONCLUIDO/index.html">[Desafios 1]</a>
+  - Desafio 2:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d002%20%20CONCLUIDO/index.html">[Desafios 2]</a>
+  - Desafio 3:<a href="https://github.com/robertdouglasaimon/html-css/blob/main/desafios/modulo-01%20CONCLUIDO/d003%20CONCLUIDO/index.html">[Desafios 3]</a>
+  - Desafio 4:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d004%20%20CONCLUIDO">[Desafios 4]</a>
+  - Desafio 5:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d005%20%20CONCLUIDO">[Desafios 5]</a>
+  - Desafio 6:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d006%20%20CONCLUIDO/Desafio-tags%20(CONCLUIDO)">[Desafios 6]</a>
+  - Desafio 7:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d007%20%20CONCLUIDO/imagens">[Desafios 7]</a>
+  - Não houve Desafio 8 -
+  - Desafio 9:<a href="https://github.com/robertdouglasaimon/html-css/blob/main/desafios/modulo-01%20CONCLUIDO/d009%20CONCLUIDO/SO%20ABRIR%20O%20INDEX%20(CONCLUIDO)/index.html">[Desafios 9]</a>
 - **Módulo 2** (Em andamento)
-  - Desafio 10: <a href="">[Desafio 10]</a>
+  - Desafio 10: <a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-02/d010%20CONCLUIDO/DESAFIO%2010%20(CONCLUIDO)/index.html">[Desafio 10]</a> 
   - Desafio 11: Em progresso
   - Desafio 12: Em progresso
 - **Módulo 3 e 4**: Aguardando
