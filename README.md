@@ -57,5 +57,3 @@ Se você estiver interessado em colaborar, discutir projetos ou apenas trocar id
 Espero que este repositório seja útil para você, assim como tem sido valioso para o meu crescimento. Obrigado por explorar meu trabalho!
 
 ---
-
-*Nota: Este readme foi criado utilizando o GPT-3 e pode ser ajustado conforme necessário. Boa sorte em sua jornada de desenvolvimento web!*
