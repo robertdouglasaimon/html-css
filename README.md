@@ -27,9 +27,29 @@
 
 #### Exercícios
 - **Módulo 1** (Concluído)
-  - Exercícios 1 a 15: [Link para Exercícios 1-15](./exercicios/modulo1)
+  - Exercício 1:<a href=""> [Exercício 1]</a>
+  - Exercício 2:<a href=""> [Exercício 2]</a>
+  - Exercício 3:<a href=""> [Exercício 3]</a>
+  - Exercício 4:<a href=""> [Exercício 4]</a>
+  - Exercício 5:<a href=""> [Exercício 5]</a>
+  - Exercício 6:<a href=""> [Exercício 6]</a>
+  - Exercício 7:<a href=""> [Exercício 7]</a>
+  - Exercício 8:<a href=""> [Exercício 8]</a>
+  - Exercício 9:<a href=""> [Exercício 9]</a>
+  - Exercício 10:<a href=""> [Exercício 10]</a>
+  - Exercício 11:<a href=""> [Exercício 11]</a>
+  - Exercício 12:<a href=""> [Exercício 12]</a>
+  - Exercício 13:<a href=""> [Exercício 13]</a>
+  - Exercício 14:<a href=""> [Exercício 14]</a>
+  - Exercício 15:<a href=""> [Exercício 15]</a>
 - **Módulo 2** (Concluído)
-  - Exercícios 1 a 15: [Link para Exercícios 1-15](./exercicios/modulo2)
+  - Exercício 15: <a href="">[Exercício 15]</a>
+  - Exercício 16: <a href="">[Exercício 16]</a>
+  - Exercício 17: <a href="">[Exercício 17]</a>
+  - Exercício 18: <a href="">[Exercício 18]</a>
+  - Exercício 19: <a href="">[Exercício 19]</a>
+  - Exercício 20: <a href="">[Exercício 20]</a>
+  - Exercício 21: <a href="">[Exercício 21]</a>
 - **Módulo 3** (Em andamento)
   - Exercícios 1 a 15: Em progresso
 - **Módulo 4**: Aguardando
