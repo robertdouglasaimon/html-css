@@ -1,0 +1,15 @@
+
+h1 {
+ font-family: Arial, Helvetica, sans-serif; 
+ align-items: center; 
+ display: flex; 
+ justify-content:center;  
+}
+
+.VIDEOS00 img {
+    display: flexbox;    
+    justify-content:center ;
+    align-items:center;
+    justify-items:center;
+    align-content:center;    
+}

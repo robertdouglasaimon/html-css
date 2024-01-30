@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-classes</title>
+    <style>
+        h1 {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+
+        div {
+            display: inline-block;
+            background-color: lightgray;
+            border: 1px solid black;
+            text-align: center;
+            height: 200px;
+            width: 200px;
+        }
+
+         div#d1{
+            
+        }
+
+         div#d2{
+            
+        }
+
+         div#d3{
+            
+        } 
+
+        div:hover {
+            background-color: yellow;
+        }
+
+
+    /*ESTRUTURA NO CSS (Escondendo elementos usando Pseudo-Classe no CSS*/
+
+        div > #d8 { /*Para ocultar o elemento da tela*/
+            display: none;
+        }
+
+        div:hover > #d8 {
+            display: block;
+            color: black;
+                      
+        }
+
+       
+    </style>
+</head>
+<body>
+    <h1>Pseudo-Classes no CSS</h1>
+    <p>Exemplo prático com "hover" de pseudo-classes no css!</p>
+    <div id="d1">01</div>
+    <div id="d2">02</div>
+    <div id="d3">03</div>
+
+    <br> <br> <br> <br>
+    
+    <!---ESTRUTURA NO HTML (Escondendo elementos usando Pseudo-Classe no CSS)-->
+    <h1>Escondendo elementos usando Pseudo-Classe no CSS</h1>
+    <div id="d5">05</div>
+    <div id="d6">06</div>
+    <div id="d7">07
+        <div id="d8">O número escondido, o 08!</div>
+    </div>
+
+</body>
+</html>
