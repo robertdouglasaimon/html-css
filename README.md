@@ -10,46 +10,46 @@
 
 #### Desafios
 - **Módulo 1** (Concluído)
-  - Desafio 1:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d001  CONCLUIDO/index">[Desafios 1]</a>
-  - Desafio 2:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d002  CONCLUIDO/index">[Desafios 2]</a>
-  - Desafio 3:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d003 CONCLUIDO/index">[Desafios 3]</a>
-  - Desafio 4:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d004  CONCLUIDO/index">[Desafios 4]</a>
-  - Desafio 5:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d005%20%20CONCLUIDO">[Desafios 5]</a>
-  - Desafio 6:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d006  CONCLUIDO/Desafio-tags (CONCLUIDO)/index">[Desafios 6]</a>
-  - Desafio 7:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d007%20%20CONCLUIDO/imagens">[Desafios 7]</a>
+  - Desafio 1:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d001  CONCLUIDO/index" target="_blank">[Desafios 1]</a>
+  - Desafio 2:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d002  CONCLUIDO/index" target="_blank">[Desafios 2]</a>
+  - Desafio 3:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d003 CONCLUIDO/index" target="_blank">[Desafios 3]</a>
+  - Desafio 4:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d004  CONCLUIDO/index" target="_blank">[Desafios 4]</a>
+  - Desafio 5:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d005%20%20CONCLUIDO" target="_blank">[Desafios 5]</a>
+  - Desafio 6:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d006  CONCLUIDO/Desafio-tags (CONCLUIDO)/index" target="_blank">[Desafios 6]</a>
+  - Desafio 7:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d007%20%20CONCLUIDO/imagens" target="_blank">[Desafios 7]</a>
   - Não houve Desafio 8 -
-  - Desafio 9:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d009 CONCLUIDO/SO ABRIR O INDEX (CONCLUIDO)">[Desafios 9]</a>
+  - Desafio 9:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d009 CONCLUIDO/SO ABRIR O INDEX (CONCLUIDO)" target="_blank">[Desafios 9]</a>
 - **Módulo 2** (Em andamento)
-  - Desafio 10: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-02/d010%20CONCLUIDO/DESAFIO%2010%20(CONCLUIDO)/projeto-android/index">[Desafio 10]</a> 
+  - Desafio 10: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-02/d010%20CONCLUIDO/DESAFIO%2010%20(CONCLUIDO)/projeto-android/index" target="_blank">[Desafio 10]</a> 
   - Desafio 11: Em progresso
   - Desafio 12: Em progresso
 - **Módulo 3 e 4**: Aguardando
 
 #### Exercícios
 - **Módulo 1** (Concluído)
-  - Exercício 1:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex001/index"> [Exercício 1]</a>
-  - Exercício 2:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex002/index"> [Exercício 2]</a>
-  - Exercício 3:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex003/index"> [Exercício 3]</a>
-  - Exercício 4:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex004/index"> [Exercício 4]</a>
+  - Exercício 1:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex001/index" target="_blank"> [Exercício 1]</a>
+  - Exercício 2:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex002/index" target="_blank"> [Exercício 2]</a>
+  - Exercício 3:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex003/index" target="_blank"> [Exercício 3]</a>
+  - Exercício 4:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex004/index" target="_blank"> [Exercício 4]</a>
    - Não houve Exercício 5 -
-  - Exercício 6:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex006/index"> [Exercício 6]</a>
-  - Exercício 7:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex007/index"> [Exercício 7]</a>
-  - Exercício 8:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex008/index"> [Exercício 8]</a>
-  - Exercício 9:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex009/index"> [Exercício 9]</a>
-  - Exercício 10:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex010/index"> [Exercício 10]</a>
-  - Exercício 11:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex011/index"> [Exercício 11]</a>
-  - Exercício 12:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex012/index"> [Exercício 12]</a>
-  - Exercício 13:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex013/index"> [Exercício 13]</a>
-  - Exercício 14:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex014/index"> [Exercício 14]</a>
-  - Exercício 15:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex015/index"> [Exercício 15]</a>
+  - Exercício 6:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex006/index" target="_blank"> [Exercício 6]</a>
+  - Exercício 7:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex007/index" target="_blank"> [Exercício 7]</a>
+  - Exercício 8:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex008/index" target="_blank"> [Exercício 8]</a>
+  - Exercício 9:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex009/index" target="_blank"> [Exercício 9]</a>
+  - Exercício 10:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex010/index" target="_blank"> [Exercício 10]</a>
+  - Exercício 11:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex011/index" target="_blank"> [Exercício 11]</a>
+  - Exercício 12:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex012/index" target="_blank"> [Exercício 12]</a>
+  - Exercício 13:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex013/index" target="_blank"> [Exercício 13]</a>
+  - Exercício 14:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex014/index" target="_blank"> [Exercício 14]</a>
+  - Exercício 15:<a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-01 (CONCLUIDO)/ex015/index" target="_blank"> [Exercício 15]</a>
 - **Módulo 2** (Concluído)
-  - Exercício 16: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex016">[Exercício 16]</a>
-  - Exercício 17: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex017">[Exercício 17]</a>
-  - Exercício 18: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex018/index">[Exercício 18]</a>
-  - Exercício 19: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex019/index">[Exercício 19]</a>
-  - Exercício 20: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex020/index">[Exercício 20]</a>
-  - Exercício 21-1: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa01">[Exercício 21]</a>
-   - Exercício 21-2: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa02">[Exercício 21]</a>
+  - Exercício 16: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex016" target="_blank">[Exercício 16]</a>
+  - Exercício 17: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex017" target="_blank">[Exercício 17]</a>
+  - Exercício 18: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex018/index" target="_blank">[Exercício 18]</a>
+  - Exercício 19: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex019/index" target="_blank">[Exercício 19]</a>
+  - Exercício 20: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex020/index" target="_blank">[Exercício 20]</a>
+  - Exercício 21-1: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa01" target="_blank">[Exercício 21]</a>
+   - Exercício 21-2: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa02" target="_blank">[Exercício 21]</a>
 - **Módulo 3** (Em andamento)
   - Exercícios 1 a 15: Em progresso
 - **Módulo 4**: Aguardando
