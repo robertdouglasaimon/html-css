@@ -62,11 +62,15 @@ Atualmente, estou focado no estudo de HTML, CSS e Javascript. Sou um iniciante, 
 
 Aqui estão alguns dos meus projetos já no ar, que demonstram um pouco mais das minhas habilidades além dos exercícios presentes neste repositório:
 
-1. [Projeto 1](#) - Descrição breve do Projeto 1.
-2. [Projeto 2](#) - Descrição breve do Projeto 2.
-3. [Projeto 3](#) - Descrição breve do Projeto 3.
-4. [Projeto 4](#) - Descrição breve do Projeto 4.
-5. [Projeto 5](#) - Descrição breve do Projeto 5.
+1. <a href="https://robertdouglasaimon.github.io/PROJETO-POKEDEX/" target="_blank">[Projeto 1 - Projeto Pokedex]</a> - Desenvolvi a Pokedex, meu projeto inicial, como uma página interativa e funcional usando HTML, CSS e JavaScript. Como iniciante, explorei o mundo da programação com tutoriais e alguns livros. Destaque para a integração da API Pokedex, que trouxe vida às informações sobre os Pokémon. Uma realização emocionante, especialmente para alguém que cresceu assistindo à série nos anos 90.
+
+2. <a href="https://robertdouglasaimon.github.io/PROJETO-GERADOR-DE-SENHAS/" target="_blank">[Projeto 2 - Projeto Gerador de Senhas]</a> - O Gerador de Senhas é uma ferramenta web simples criada com HTML, CSS e JavaScript. Neste projeto, já possuía um pouco mais de conhecimento em JavaScript, adquirido durante a criação da Pokedex. O objetivo foi criar uma aplicação descomplicada para tornar a criação de senhas robustas fácil para todos, independentemente de sua experiência em tecnologia.
+
+3. <a href="https://robertdouglasaimon.github.io/PROJETO-PRIMEIRO-SITE/index.html" target="_blank">[Projeto 3 - Portfólio Protótipo]</a> - Este protótipo de portfólio pessoal foi desenvolvido com HTML, CSS e JavaScript. Inicialmente, concebido para ser meu portfólio profissional, acabou se tornando uma "quimerinha" de testes, refletindo meu aprendizado contínuo. O código, embora não perfeitamente identado devido a experimentações, representa minha jornada e a promessa de futuras melhorias e adoção de novas tecnologias.
+
+4. <a href="https://robertdouglasaimon.github.io/PROJETO-BLOG-PESSOAL/" target="_blank">[Projeto 4 - Página de Esportes]</a> - Criada para registrar memórias esportivas, a Página de Esportes é uma aplicação web simples usando HTML, CSS e o básico do JavaScript. Inicialmente, desenvolvi este projeto como um espaço pessoal para compartilhar atividades esportivas. Agora, estou em processo de personalização adicional, transformando-a em um local mais especial para meus registros e memórias esportivas. 🚴‍♀️
+
+5. <a href="https://robertdouglasaimon.github.io/PROJETO-LANDING-PAGE/" target="_blank">[Projeto 5 - Landpage Músical]</a> - A Landpage é um projeto impactante onde utilizei HTML e CSS para criar uma página simples e atraente relacionada a música. Após enfrentar desafios ao adiantar conceitos que ainda não dominava totalmente, consegui compreendê-los ao longo do processo de criação. Este projeto destaca minha habilidade de aplicar novos conhecimentos de forma prática e eficaz.
 
 Sinta-se à vontade para explorar cada projeto e ver meu progresso ao longo do tempo.
 
