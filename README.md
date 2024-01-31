@@ -76,6 +76,6 @@ Sinta-se à vontade para explorar cada projeto e ver meu progresso ao longo do t
 
 ## Contato
 
-Se você estiver interessado em colaborar, discutir projetos ou apenas trocar ideias, fique à vontade para entrar em contato comigo <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdqHLVzMnLRjdrLVtSdqsfmSSGFmLcrrrXSkRGjMFzKXrJWNjnJNwPRRjXDtqsdJCbhQW" target="_blank">robertdouglasaimon@gmail.com</a>.
+Se você estiver interessado em colaborar, discutir projetos ou apenas trocar ideias, fique à vontade para entrar em contato comigo através do e-mail: <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLdqHLVzMnLRjdrLVtSdqsfmSSGFmLcrrrXSkRGjMFzKXrJWNjnJNwPRRjXDtqsdJCbhQW" target="_blank">robertdouglasaimon@gmail.com</a>.
 
 Espero que este repositório seja útil para você, assim como tem sido valioso para o meu crescimento. Obrigado por explorar meu trabalho!
