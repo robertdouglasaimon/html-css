@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento Vertical</title>
+    <style>
+        #container {
+            background-image: url('imagens-cap19/target001.png');
+            background-size: 100% 100%;
+            position: relative;
+            height: 96vh;
+            padding: 10px;
+            background-color: purple;
+        }
+
+        #conteudo {
+            background-image: url('imagens-cap19/target001.png');
+            background-size: 100% 100%;
+
+            position: absolute;
+            height: 200px;
+            width: 400px;
+            background-color: yellow;
+
+            left: 50%;
+            top: 50%;
+            /*
+            OBS: VOCÊ SÓ PODE MEXER EM TOP E LEFT SE A POSIÇÃO DO "#container" foi 
+            "relative" (por padrão já vem relative, mas é bom checar) e também se o "#conteudo" estiver em "position: absolute". Position sendo absolute, você habilita as propriedades "top, right, bottom, left" no documento. Facilitando assim o posicionamento desse conteudo. E podemos trabalhar com eles seja em 'px'  ou em '%'.   
+            */
+
+            transform: translate(-50%, -50%);
+
+            /*
+            "transform: translate(-x , x); move o componente de acordo com o parametro dado. No caso do nosso exemplo, mexemos ele -50% para a ESQUERDA e -50% para cima, resultando na centralização total do objeto. Independente se a tela aumenta ou não, esse objeto sempre ficará fixado no centro, de acordo com os paramentros configurados entra os parenteses.
+            */
+        }
+    </style>
+</head>
+<body>
+    <section id="container">
+        <article id="conteudo">
+
+        </article>
+    </section>
+</body>
+</html>
