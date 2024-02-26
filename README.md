@@ -22,7 +22,7 @@
 - **Módulo 2** (Em andamento)
   - Desafio 10: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-02/d010%20CONCLUIDO/DESAFIO%2010%20(CONCLUIDO)/projeto-android/index" target="_blank">[Desafio 10]</a> 
   - Desafio 11: Em progresso
-  - Desafio 12: Em progresso
+  - Desafio 12: <a href="https://robertdouglasaimon.github.io/PROJETO-CORDEL/">[Desafio 12]</a>
 - **Módulo 3 e 4**: Aguardando
 
 #### Exercícios
@@ -51,7 +51,8 @@
   - Exercício 21-1: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa01" target="_blank">[Exercício 21]</a>
    - Exercício 21-2: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa02" target="_blank">[Exercício 21]</a>
 - **Módulo 3** (Em andamento)
-  - Exercícios 1 a 15: Em progresso
+  - Exercícios 22
+    <li></li>
 - **Módulo 4**: Aguardando
 
 ### Sobre Mim
