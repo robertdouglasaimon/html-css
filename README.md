@@ -50,9 +50,21 @@
   - Exercício 20: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex020/index" target="_blank">[Exercício 20]</a>
   - Exercício 21-1: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa01" target="_blank">[Exercício 21]</a>
    - Exercício 21-2: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa02" target="_blank">[Exercício 21]</a>
-- **Módulo 3** (Em andamento)
-  - Exercícios 22
-    <li></li>
+- **Módulo 3** (Em andamento) <br>
+  - Exercícios 22:
+    <ol>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo001%20(CONCLUIDO).html" target="_blank">fundo001 - Papel de Parede (background e derivados)</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo002 -  (CONCLUIDO).html" target="_blank">fundo002 - Teste de aplicação de fundo</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo003 -  (CONCLUIDO).html" target="_blank">fundo003 - Posição de um background</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo004 -  (CONCLUIDO).html" target="_blank">fundo004 - Posicionamento</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo004 - 1 (CONCLUIDO).html" target="_blank">fundo004 - 1 - Fundo</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo005 -  (CONCLUIDO).html" target="_blank">fundo005 - Direcionamento De Background</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo005 - 1 (CONCLUIDO).html" target="_blank">fundo005 - 1 - Centralização De Texto</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo006 - (CONCLUIDO).html" target="_blank">fundo006 - Teste: Imagem de fundo fixa mais texto centralizado</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo007 - (CONCLUIDO).html" target="_blank">fundo007 - Alinhamento Vertical</a></li>
+    </ol>
+  - Exercícios 23: (Em andamento)
+
 - **Módulo 4**: Aguardando
 
 ### Sobre Mim
@@ -73,6 +85,9 @@ Aqui estão alguns dos meus projetos já no ar, que demonstram um pouco mais das
 
 5. <a href="https://robertdouglasaimon.github.io/PROJETO-LANDING-PAGE/" target="_blank">[Projeto 5 - Landpage Músical]</a> - A Landpage é um projeto impactante onde utilizei HTML e CSS para criar uma página simples e atraente relacionada a música. Após enfrentar desafios ao adiantar conceitos que ainda não dominava totalmente, consegui compreendê-los ao longo do processo de criação. Este projeto destaca minha habilidade de aplicar novos conhecimentos de forma prática e eficaz.
 
+6. <a href="https://robertdouglasaimon.github.io/PROJETO-CORDEL/">[Projeto 5 - Projeto Cordel]</a> - Um projeto onde utilizei HTML e CSS para criar alguns efeitos de background e interação. Ao longo deste projeto, aprimorei minhas habilidades em várias técnicas-chave, incluindo o gerenciamento responsivo do tamanho da tela, posicionamento preciso de elementos utilizando unidades de viewport (vh, vw), e, mais importante, a implementação bem-sucedida do efeito parallax.
+<br>
+<br>
 Sinta-se à vontade para explorar cada projeto e ver meu progresso ao longo do tempo.
 
 ## Contato
