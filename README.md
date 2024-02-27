@@ -19,7 +19,7 @@
   - Desafio 7:<a href="https://github.com/robertdouglasaimon/html-css/tree/main/desafios/modulo-01%20CONCLUIDO/d007%20%20CONCLUIDO/imagens" target="_blank">[Desafios 7]</a>
   - Não houve Desafio 8 -
   - Desafio 9:<a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-01 CONCLUIDO/d009 CONCLUIDO/SO ABRIR O INDEX (CONCLUIDO)" target="_blank">[Desafios 9]</a>
-- **Módulo 2** (Em andamento)
+- **Módulo 2** (Concluído)
   - Desafio 10: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-02/d010%20CONCLUIDO/DESAFIO%2010%20(CONCLUIDO)/projeto-android/index" target="_blank">[Desafio 10]</a> 
   - Desafio 11: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-02/d011 CONCLUIDO">[Desafio 11]</a>
   - Desafio 12: <a href="https://robertdouglasaimon.github.io/PROJETO-CORDEL/">[Desafio 12]</a>
