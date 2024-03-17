@@ -42,6 +42,8 @@ footer {
 /* Media Query */
 @media (max-width: 480px) {
     .container {
+        max-width: 480px; /* Definir a largura máxima do contêiner apenas para telas menores que 480px */
+        margin: 0 auto; /* Centralizar o contêiner na tela */
         grid-template-rows: auto auto auto auto;
         grid-template-columns: 1fr;
         grid-template-areas: 
@@ -49,5 +51,16 @@ footer {
             'sidebar'
             'main'
             'footer';
+    }
+
+    .sidebar {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap; /* Permitir que os itens quebrem para a próxima linha */
+    }
+
+    .sidebar > a {
+        display: inline-block; /* Tornar os links elementos em linha */
+        margin-right: 10px; /* Adicionar espaçamento entre os links */
     }
 }
