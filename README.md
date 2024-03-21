@@ -65,7 +65,14 @@
       <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo006 - (CONCLUIDO).html" target="_blank">fundo006 - Teste: Imagem de fundo fixa mais texto centralizado</a></li>
       <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo007 - (CONCLUIDO).html" target="_blank">fundo007 - Alinhamento Vertical</a></li>
     </ol>
-  - Exercícios 23: (Em andamento)
+  - Exercícios 23: (Em andamento..)
+    <ol>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex023/tabela001 (CONCLUIDO).html" target="_blank">tabela001 (CONCLUIDO)</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex023/tabela002 (CONCLUIDO).html" target="_blank">tabela002 (CONCLUIDO)</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex023/tabela003 (CONCLUIDO).html" target="_blank">tabela003 (CONCLUIDO)</a></li>
+    </ol>
+
+
 
 - **Módulo 4**: Aguardando
 
