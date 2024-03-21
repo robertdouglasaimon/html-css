@@ -52,25 +52,25 @@
   - Exercício 20: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex020/index" target="_blank">[Exercício 20]</a>
   - Exercício 21-1: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa01" target="_blank">[Exercício 21]</a>
    - Exercício 21-2: <a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-02 (CONCLUIDO)/ex021/caixa02" target="_blank">[Exercício 21]</a>
-- **Módulo 3** (Em andamento) <br>
+- **Módulo 3** (Concluído) <br>
   - Exercícios 22:
     <ol>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo001%20(CONCLUIDO).html" target="_blank">fundo001 - Papel de Parede (background e derivados)</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo002 -  (CONCLUIDO).html" target="_blank">fundo002 - Teste de aplicação de fundo</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo003 -  (CONCLUIDO).html" target="_blank">fundo003 - Posição de um background</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo004 -  (CONCLUIDO).html" target="_blank">fundo004 - Posicionamento</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo004 - 1 (CONCLUIDO).html" target="_blank">fundo004 - 1 - Fundo</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo005 -  (CONCLUIDO).html" target="_blank">fundo005 - Direcionamento De Background</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo005 - 1 (CONCLUIDO).html" target="_blank">fundo005 - 1 - Centralização De Texto</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo006 - (CONCLUIDO).html" target="_blank">fundo006 - Teste: Imagem de fundo fixa mais texto centralizado</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex022/fundo007 - (CONCLUIDO).html" target="_blank">fundo007 - Alinhamento Vertical</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex022/fundo001%20(CONCLUIDO).html" target="_blank">fundo001 - Papel de Parede (background e derivados)</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex022/fundo002 -  (CONCLUIDO).html" target="_blank">fundo002 - Teste de aplicação de fundo</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex022/fundo003 -  (CONCLUIDO).html" target="_blank">fundo003 - Posição de um background</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex022/fundo004 -  (CONCLUIDO).html" target="_blank">fundo004 - Posicionamento</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex022/fundo004 - 1 (CONCLUIDO).html" target="_blank">fundo004 - 1 - Fundo</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex022/fundo005 -  (CONCLUIDO).html" target="_blank">fundo005 - Direcionamento De Background</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/mmodulo-03 (CONCLUIDO)/ex022/fundo005 - 1 (CONCLUIDO).html" target="_blank">fundo005 - 1 - Centralização De Texto</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex022/fundo006 - (CONCLUIDO).html" target="_blank">fundo006 - Teste: Imagem de fundo fixa mais texto centralizado</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex022/fundo007 - (CONCLUIDO).html" target="_blank">fundo007 - Alinhamento Vertical</a></li>
     </ol>
   - Exercícios 23:
     <ol>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex023/tabela001 (CONCLUIDO).html" target="_blank">tabela001 (CONCLUIDO)</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex023/tabela002 (CONCLUIDO).html" target="_blank">tabela002 (CONCLUIDO)</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex023/tabela003 (CONCLUIDO).html" target="_blank">tabela003 (CONCLUIDO)</a></li>
-      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03/ex023/tabela004 (CONCLUIDO).html" target="_blank">tabela004 (CONCLUIDO)</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex023/tabela001 (CONCLUIDO).html" target="_blank">tabela001 (CONCLUIDO)</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex023/tabela002 (CONCLUIDO).html" target="_blank">tabela002 (CONCLUIDO)</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex023/tabela003 (CONCLUIDO).html" target="_blank">tabela003 (CONCLUIDO)</a></li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex023/tabela004 (CONCLUIDO).html" target="_blank">tabela004 (CONCLUIDO)</a></li>
     </ol>
 
 
