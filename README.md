@@ -26,7 +26,7 @@
 - **Módulo 3** (Concluído)
   - Desafio 1: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-03/d013 - modulo03/d013-01 (CONCLUIDO).html" target="_blank">[Desafios 1]</a>
   - Desafio 2: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-03/d013 - modulo03/d013-02 (CONCLUIDO).html" target="_blank">[Desafios 2]</a>
-  - Desafio 3: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-03/d013 - modulo03/d013-03 (CONCLUIDO).html" target="_blank">[Desafios 3]</a>
+  - Desafio 3: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-03 CONCLUIDO/d013 - modulo03/d013-03 (CONCLUIDO).html" target="_blank">[Desafios 3]</a>
 
 #### Exercícios
 - **Módulo 1** (Concluído)
