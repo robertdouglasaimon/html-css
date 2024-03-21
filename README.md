@@ -25,7 +25,7 @@
   - Desafio 12: <a href="https://robertdouglasaimon.github.io/PROJETO-CORDEL/">[Desafio 12]</a>
 - **Módulo 3** (Em andamento..)
   - Desafio 1: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-03/d013 - modulo03/d013-01 (CONCLUIDO).html" target="_blank">[Desafios 1]</a>
-  - Desafio 2: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-03/d013 - modulo03/d013-02 (CONCLUIDO).html" target="_blank">[Desafios 1]</a>
+  - Desafio 2: <a href="https://robertdouglasaimon.github.io/html-css/desafios/modulo-03/d013 - modulo03/d013-02 (CONCLUIDO).html" target="_blank">[Desafios 2]</a>
 
 #### Exercícios
 - **Módulo 1** (Concluído)
