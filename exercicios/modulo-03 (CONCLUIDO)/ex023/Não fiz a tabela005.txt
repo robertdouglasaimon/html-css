@@ -1,0 +1,1 @@
+Ela era referente a usa DIV para envelopar coluna da tabela e fazer marcações dinâmicas de span.
