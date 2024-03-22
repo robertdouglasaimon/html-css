@@ -72,6 +72,8 @@
       <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex023/tabela002 (CONCLUIDO).html" target="_blank">tabela002 (CONCLUIDO)</a></li>
       <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex023/tabela003 (CONCLUIDO).html" target="_blank">tabela003 (CONCLUIDO)</a></li>
       <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex023/tabela004 (CONCLUIDO).html" target="_blank">tabela004 (CONCLUIDO)</a></li>
+      <li>Não fiz a tabela 5, não houve necessidade.</li>
+      <li><a href="https://robertdouglasaimon.github.io/html-css/exercicios/modulo-03 (CONCLUIDO)/ex023/tabela006 (CONCLUIDO).html" target="_blank">tabela006 (CONCLUIDO)</a></li>
     </ol>
 
 
