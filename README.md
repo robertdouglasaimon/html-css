@@ -78,7 +78,7 @@
 
 
 
-- **Módulo 4**: Aguardando
+- **Módulo 4**: Em andamento...
 
 ### Sobre Mim
 
