@@ -1,5 +1,5 @@
 <h1>**Meu Repositório de HTML e CSS**</h1>
- 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="30" height="30">
 <p>Bem-vindo ao meu repositório! Aqui, compartilho meus desafios e exercícios relacionados a HTML5, CSS3 e Javascript do CursoemVídeo. Este espaço reflete meu comprometimento em aprender e desenvolver minhas habilidades no desenvolvimento web. Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.</p>
 
 <p>Seja você um iniciante ou um profissional experiente, espero que encontre algo útil aqui.</p> 
